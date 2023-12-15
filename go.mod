@@ -1,3 +1,3 @@
-module BrainFuckCompiler
+module goBFI
 
 go 1.21
