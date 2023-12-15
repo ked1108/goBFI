@@ -3,7 +3,7 @@
   <h3 align="center">goBFI</h3>
 
   <p align="center">
-    A simple interpreter for GoLang
+    A simple interpreter for brainfuck in GoLang
     <br/>
     <br/>
     <a href="https://github.com/ked1108/gobfi/issues">Report Bug</a>
